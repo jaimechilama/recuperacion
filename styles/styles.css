@@ -1,0 +1,45 @@
+.padre {
+    background: rgb(#2ECCFA);
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+table {
+    width:80%;
+    height:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+
+  body{
+    
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(110,9,121,1) 8%, rgba(233,194,18,0.9192051820728291) 100%, rgba(0,212,255,1) 100%);
+  }
+  .formulario{
+    width: 70%;
+    margin-top: 90px;
+ margin-right: 200px;
+    top:0;
+    right:0;
+    background: #fff;
+    border: 1px solid #000000;
+   -moz-border-radius: 7px;
+   -webkit-border-radius: 7px;
+padding: 40px;
+margin-left: 170px;
+  }
+  .lista1{
+    width:100% ;
+  }
+  .ribbon {
+    position: relative;
+    top: -16px;
+    right: -90px;
+ }
+ 
+ 
+
